@@ -1,4 +1,4 @@
-# Steel-Plate Fault Classification
+# Steel Plate Fault Classification
 
 ## Overview
 Steel Plate Fault Classification is a machine learning project designed to detect and classify defects in steel plates. The model leverages classification algorithms to categorize faults based on various features, helping in quality control and defect analysis in the manufacturing industry.
