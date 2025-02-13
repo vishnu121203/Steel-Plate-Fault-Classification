@@ -17,7 +17,7 @@ Steel Plate Fault Classification is a machine learning project designed to detec
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- TensorFlow/Keras (for deep learning models)
+- TensorFlow/Keras (for Deep learning models)
 - Jupyter Notebook
 
 
